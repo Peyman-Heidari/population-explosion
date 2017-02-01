@@ -1,4 +1,5 @@
 Summary
+The Visualization: https://peyman-heidari.github.io/population-explosion/
 
 Global human population growth amounts to around 75 million annually, or 1.1% per year. The global population has grown from 1 billion in 1800 to 7 billion in 2012. It is expected to keep growing, and estimates have put the total population at 8.4 billion by mid-2030, and 9.6 billion by mid-2050.
 
